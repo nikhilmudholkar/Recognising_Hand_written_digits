@@ -47,7 +47,7 @@ def num_predict(i,k) :
 
 
 learn(2) #for checking the efficiency for any values of k
-ans = num_predict(1015,7) # here we are passing 2 arguments, the index of data of image that we are trying to predict and k
+ans = num_predict(1000,7) # here we are passing 2 arguments, the index of data of image that we are trying to predict and k
 print("the recognised value is = "+ str(ans))
 
 
